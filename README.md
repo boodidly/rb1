@@ -27,8 +27,8 @@ A beautiful, customizable terminal wrapper with script management, AI chat capab
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/modern-terminal-ui.git
-cd modern-terminal-ui
+git clone https://github.com/boodidly/rb1.git
+cd rb1
 ```
 
 2. Make the installation script executable:
